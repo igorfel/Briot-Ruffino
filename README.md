@@ -1,4 +1,4 @@
 Briot-Ruffino
 =============
 
- O código vai fazer a formula de Briot-Ruffino em funções de 3 ordem, porem esta incompleto ele ainda n efetua a simplificação para achar a primeira raiz.
+ O código vai fazer a fórmula de Briot-Ruffino em funções de 3ª ordem, porém está incompleto ele ainda não efetua a simplificação para achar a primeira raiz.
