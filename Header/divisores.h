@@ -5,6 +5,7 @@ class divisores
 {
 public:
     divisores();
+    ~divisores();
     int *divs(int dividendo);
 };
 
