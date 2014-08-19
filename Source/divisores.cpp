@@ -5,6 +5,10 @@ divisores::divisores()
 {
 }
 
+divisores::~divisores()
+{
+}
+
 int *divisores::divs(int dividendo)
 {
     int aux, n(0), _divisores[100];
